@@ -10,12 +10,12 @@
 
 ## Automation / Scheduling
 - Scheduled execution (daily timing)
-- Logging + notifications (optional)
+- Logging + notifications
 
 ## Reporting
 - Excel dashboards with Power Query (refresh connections + visuals)
-- Dashboard exports (screenshots in public demo)
+- Dashboard exports
 
-## Optional Integrations (private/internal only)
+## Integrations (private/internal only)
 - Browser automation (Selenium) for portal exports
 - API calls (requests) for system downloads
