@@ -31,4 +31,3 @@ This repository documents an end-to-end daily reporting cycle used to:
 
 ## Disclaimer
 All names, IDs, numbers, and outputs shown here are **sample/demo** and do not represent real customers or production data.
-``
