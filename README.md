@@ -27,8 +27,7 @@ This repository documents an end-to-end daily reporting cycle used to:
 ➡️ Full tools list: `docs/tools_stack.md`
 
 ## Dashboard (Demo Screenshots)
-- `docs/dashboard/intro.png`
-- `docs/dashboard/summary.png`
+- `docs/png/Summary.png`
 
 ## Disclaimer
 All names, IDs, numbers, and outputs shown here are **sample/demo** and do not represent real customers or production data.
